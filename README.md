@@ -1,0 +1,1 @@
+This file represent dynamic Model of both a gearless DC motor and Geared DC motor with parameter optimization performed
